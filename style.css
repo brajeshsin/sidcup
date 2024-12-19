@@ -85,7 +85,6 @@ font-weight: 800;
 text-transform: uppercase;
 position: relative;
 }
-
 #page1 h1::before{
 content: 'Eat. Drink. Play.';
 position: absolute;
